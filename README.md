@@ -30,5 +30,5 @@ numpy
 
 ### 运行示例
 
-![output1]([.\images\output1.png](https://github.com/BetterForerunner/Running_Pose_Visualization/blob/main/images/output1.png))
+![output](images/output1.png)
 
